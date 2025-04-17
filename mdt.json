@@ -100,7 +100,7 @@
     "ranks": "Police Executive Master Serge"
   },
   {
-    "user": "Eivor_Luciano",
+    "user": "Eivor_luciano",
     "password": "111",
     "ranks": "Police Executive Master Serge"
   },
@@ -110,7 +110,7 @@
     "ranks": "Police Chief Master Sergeant"
   },
   {
-    "user": "Satano_Salvacicinaru",
+    "user": "Satano_Salvacion",
     "password": "111",
     "ranks": "Police Senior Master Sergeant"
   },
@@ -183,5 +183,15 @@
     "user": "Yolly_Javero",
     "password": "111",
     "ranks": "Police Probationary"
+  },
+  {
+    "user": "Coleen_Melly",
+    "password": "111",
+    "ranks": "Police Major"
+  },
+  {
+    "user": "Hannya_Cakes",
+    "password": "111",
+    "ranks": "Police Patrolman"
   }
 ]

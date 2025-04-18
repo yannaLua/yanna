@@ -198,5 +198,10 @@
     "user": "Draco_Elizalde",
     "password": "111",
     "ranks": "Police Probationary"
+  },
+  {
+    "user": "Simon_Vicente",
+    "password": "111",
+    "ranks": "Police Corporal"
   }
 ]

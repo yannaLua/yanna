@@ -203,5 +203,10 @@
     "user": "Simon_Vicente",
     "password": "111",
     "ranks": "Police Corporal"
+  },
+  {
+    "user": "Cholo_Musashi",
+    "password": "111",
+    "ranks": "Police Probationary"
   }
 ]

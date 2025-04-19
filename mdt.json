@@ -213,5 +213,10 @@
     "user": "Kevin_Ortigas",
     "password": "111",
     "ranks": "Police Lieutenant Colonel"
-  }
+  },
+  {
+    "user": "Tobio_Chavez",
+    "password": "111",
+    "ranks": "Police Captain" 
+  } 
 ]
